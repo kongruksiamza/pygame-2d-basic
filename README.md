@@ -1,1 +1,2 @@
-# pygame-2d-basic
+# โค้ดประกอบการสอน Pygame
+ 
